@@ -13,4 +13,3 @@ Development goals:
 - basic or other programming language writing with voice (sounds like a terrible idea, let's do it!)
 
 All these apps should be able to be used entirely with voice, requiring no human interface devices. This is not a practical thing, it is simply a stupid idea that I think would be funny.
-Hey look, I'm adding some stuff in VS code! This is a test, and I think I'm having fun.
