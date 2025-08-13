@@ -10,6 +10,7 @@ with sr.Microphone() as source:
 
 try:
     # Recognize speech using Google Speech Recognition
+    print("processing speech...")
     text = r.recognize_google(audio)
     print("You said: " + text)
 except sr.UnknownValueError:
