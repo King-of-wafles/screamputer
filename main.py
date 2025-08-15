@@ -50,7 +50,7 @@ try:
       resultLength = len(result)
       if resultLength > 0:
             lastPhrase=getVoice()
-            if "exit" in lastPhrase or "stop" in lastPhrase:
+            if "exit" == lastPhrase or "stop" == lastPhrase or "exit stop" == lastPhrase or "stop exit" == lastPhrase:
                 break
       time.sleep(1/60)
 
